@@ -33,6 +33,8 @@ Constraints:
 1 <= nums.length <= 50
 1 <= nums[i] <= 50*/
 
+
+// TC = O(n^3)  SC = O(1)
 class Solution {
 public:
     int incremovableSubarrayCount(vector<int>& nums) {

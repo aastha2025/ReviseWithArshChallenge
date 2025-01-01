@@ -17,6 +17,7 @@ n == img[i].length
 0 <= img[i][j] <= 255
  */
 
+// TC = O(n^3)  SC = (n)
 class Solution {
 public:
 

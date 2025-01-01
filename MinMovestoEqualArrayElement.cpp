@@ -25,6 +25,7 @@ n == nums.length
 1 <= nums.length <= 105
 -109 <= nums[i] <= 109*/
 
+// TC = O(n)  SC = O(1)
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
